@@ -33,6 +33,3 @@ If you find this work useful, please cite the paper:
 
 ```
 
----
-
-This template focuses on the description and key elements for your repository. You can fill in specific details for your project!
